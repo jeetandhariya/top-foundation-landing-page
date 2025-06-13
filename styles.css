@@ -62,7 +62,7 @@ a {
     font-size: 18px;
     font-weight: bold;
     color: #E5E7EB;
-    padding: 8px 16px;
+    padding: 8px 24px;
     margin-top: 10px;
     box-sizing: border-box;
     border: none;
@@ -82,17 +82,16 @@ a {
     text-align: center;
 }
 
-.info-images{
+.info-images {
     display: flex;
     justify-content: center;
     gap: 40px;
     padding-bottom: 50px;
 }
 
-.info-item 
-{
-  max-width: 200px;
-  text-align: center;
+.info-item {
+    max-width: 200px;
+    text-align: center;
 }
 
 .info-item img {
@@ -134,8 +133,34 @@ a {
     border-radius: 8px;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .contact-info {
     color: #E5E7EB;
+    padding: 20px 0px;
+}
+
+.sign-up-contact {
+    font-size: 18px;
+    font-weight: bold;
+    color: #E5E7EB;
+    background-color: transparent;
+    border: #E5E7EB 2px solid;
+    border-radius: 8px;
+    padding: 8px 24px;
+}
+
+/* Footer section with dark background */
+
+.footer {
+    background-color: #1F2937;
+    padding: 0px 200px;
+}
+
+.footer p {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 30px 0px;
 }
