@@ -12,7 +12,7 @@ body {
 
 .top {
     background-color: #1F2937;
-    padding: 0px 200px;
+    padding: 0px 100px;
 }
 
 .header {
@@ -72,7 +72,7 @@ a {
 /* Middle section with white background */
 
 .middle {
-    padding: 0px 200px;
+    padding: 0px 100px;
 }
 
 .info-header {
@@ -107,7 +107,7 @@ a {
 /* Quote section with grey background */
 
 .quotes {
-    padding: 80px 200px;
+    padding: 80px 100px;
     background-color: #E5E7EB;
 }
 
@@ -128,7 +128,7 @@ a {
 /* Contact section with blue background */
 
 .contact {
-    margin: 80px 200px;
+    margin: 80px 100px;
     background-color: #3882F6;
     border-radius: 8px;
     display: flex;
@@ -155,7 +155,7 @@ a {
 
 .footer {
     background-color: #1F2937;
-    padding: 0px 200px;
+    padding: 0px 100px;
 }
 
 .footer p {
